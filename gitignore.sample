@@ -8,3 +8,4 @@ system/cms/logs/
 .htaccess
 uploads/
 system/cms/config/database.php
+system/cms/config/config.php
